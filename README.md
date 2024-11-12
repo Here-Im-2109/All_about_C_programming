@@ -1,6 +1,6 @@
 <h1>C Programming Learning Journey 🚀</h1>
 
-<p>Welcome to my C programming repository! This repository is a collection of programs, examples, and concepts that I've learned over the past year in C programming. I plan to keep it updated by pushing 2 to 3 new files daily, covering various topics and practice problems. And a big thanks to HARRY BHAIYA from "code with harry"</p>
+<p>Welcome to my C programming repository! This repository is a collection of programs, examples, and concepts that I've learned over the past year in C programming. I plan to keep it updated by pushing 2 to 3 new files daily, covering various topics and practice problems. And a big thanks to RUDRANIL DA & HARRY BHAIYA from "code with harry"</p>
 
 <h2>Repository Structure 📂</h2>
 
