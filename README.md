@@ -1,6 +1,6 @@
 <h1>C Programming Learning Journey 🚀</h1>
 
-<p>Welcome to my C programming repository! This repository is a collection of programs, examples, and concepts that I've learned over the past year in C programming. I plan to keep it updated by pushing 2 to 3 new files daily, covering various topics and practice problems.</p>
+<p>Welcome to my C programming repository! This repository is a collection of programs, examples, and concepts that I've learned over the past year in C programming. I plan to keep it updated by pushing 2 to 3 new files daily, covering various topics and practice problems. And a big thanks to HARRY BHAIYA from "code with harry"</p>
 
 <h2>Repository Structure 📂</h2>
 
@@ -17,7 +17,7 @@
 
 <ol>
   <li>Clone this repository:
-    <pre><code>git clone https://github.com/yourusername/c-programming-learning-journey.git</code></pre>
+    <pre><code>git clone https://github.com/Here-Im-2109/All_about_C_programming.git</code></pre>
   </li>
   <li>Compile a C file using GCC (or your preferred compiler):
     <pre><code>gcc filename.c -o filename<br>./filename</code></pre>
