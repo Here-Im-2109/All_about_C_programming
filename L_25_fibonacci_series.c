@@ -1,4 +1,4 @@
-//    Purpose:  Exercise 3 on Recursion: ( Fibonacci series )
+//    Purpose:  Exercise on Recursion: ( Fibonacci series )
 
 
 int fib(int n)
