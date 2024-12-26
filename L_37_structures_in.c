@@ -1,4 +1,4 @@
-//  Purpose:    Structures in 'C'   [ *(important) ]
+//  Purpose:    Structures in 'C'
 
 #include<stdio.h>
 #include<string.h>
