@@ -32,8 +32,6 @@ int main()
         // scanf("%[^\n]s",ptr);
         // scanf("%[^\n]%*c",ptr);
         gets(ptr);
-
-        // scanf("%s", ptr);        // space problem.
         
         printf("\nValue of a is: %c", a);
         printf("\nValue of b is: %c", b);
