@@ -1,3 +1,4 @@
+// purpose : automatic reciept genereator
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
