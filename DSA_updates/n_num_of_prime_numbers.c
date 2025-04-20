@@ -1,3 +1,5 @@
+// purpose: To print the first n prime numbers
+
 #include <stdio.h>
 void main()
 {
