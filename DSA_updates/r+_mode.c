@@ -1,6 +1,4 @@
 //      Purpose : Learn r+ mode on File in C programming.
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
