@@ -1,3 +1,5 @@
+// Purpose: To calculate simple interest
+
 #include<stdio.h>
 void main ()
 {
